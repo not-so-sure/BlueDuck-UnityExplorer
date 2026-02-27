@@ -2,10 +2,10 @@
   "version": "0.1",
   "name": "Unity Explorer",
   "description": "A patch made by BlueDuck to run Unity Explorer in Unity 6. Useful for Modders",
-  "authors": ["LukaSyntax"],
+  "authors": ["BlueDuck","yukieiji","sinai-dev"],
   "icon_url": "",
-  "release": "https://github.com/not-so-sure/BlueDuck-UnityExplorer/releases/download/v.1.0.0/UnityExplorer.ML.IL2CPP.CoreCLR.dll",
+  "release": "https://github.com/not-so-sure/BlueDuck-UnityExplorer/releases/download/v.1.0.0/UnityExplorer.dll",
   "isMod": true,
-  "required_libs": {UniverseLib},
+  "required_libs": {"UniverseLib"},
   "breaks_with": []
 }
